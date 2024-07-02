@@ -24,11 +24,8 @@
 ## 🌱 Kariyer Hedeflerim
 - Tam bir Full-Stack Developer olarak kendimi sürekli geliştirmek
 - Yazılım mimarisi ve tasarım desenlerinde uzmanlaşmak
-- Büyük ölçekli, yüksek trafik alan web uygulamaları geliştirmek
-- DevOps pratiklerini öğrenerek CI/CD süreçlerinde yetkinlik kazanmak
 - Mobil uygulama geliştirme alanında da deneyim kazanmak
 - Açık kaynak projelere katkıda bulunarak toplulukla etkileşim kurmak
-- Yapay zeka ve makine öğrenimi alanlarında bilgi edinip, bu teknolojileri projelerime entegre etmek
 - Teknik liderlik becerilerimi geliştirerek gelecekte bir geliştirici ekibine liderlik etmek
 
 ## 📫 İletişim
